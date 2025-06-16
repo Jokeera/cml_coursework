@@ -1,0 +1,14 @@
+0
+MaxPartialCharge
+MaxAbsPartialCharge
+BCUT2D_MWHI
+BCUT2D_LOGPHI
+BCUT2D_MRLOW
+BertzCT
+HallKierAlpha
+PEOE_VSA2
+PEOE_VSA9
+SMR_VSA10
+TPSA
+EState_VSA2
+VSA_EState4

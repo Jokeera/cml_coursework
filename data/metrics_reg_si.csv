@@ -1,0 +1,4 @@
+Model,R2_on_test
+CatBoost,0.18509442637120177
+RandomForest,0.20774335784908038
+GradientBoosting,0.07061574539356852

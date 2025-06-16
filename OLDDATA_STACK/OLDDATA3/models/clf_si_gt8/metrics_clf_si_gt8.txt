@@ -1,0 +1,6 @@
+ROC AUC:  0.7053
+Accuracy: 0.7269
+Precision:0.5972
+Recall:   0.4452
+F1-score: 0.5101
+Best threshold (Youden): 0.5888
