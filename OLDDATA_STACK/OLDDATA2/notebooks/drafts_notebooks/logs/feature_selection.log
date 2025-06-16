@@ -1,6 +1,0 @@
-✅ ЭТАП 10: EDA завершён
-X_scaled: (872, 165)
-data_final.csv: (872, 172)
-Финальный датасет: (872, 90)
-Целевые переменные: ['log1p_IC50_nM', 'log1p_CC50_nM', 'log1p_SI', 'IC50_gt_median', 'CC50_gt_median', 'SI_gt_median', 'SI_gt_8']
-Признаков: 83

@@ -1,8 +1,0 @@
-task,n_features_loaded,n_components_95
-reg_log1p_IC50_nM,106,31
-reg_log1p_CC50_nM,108,32
-reg_log1p_SI,109,34
-clf_IC50_gt_median,99,33
-clf_CC50_gt_median,103,33
-clf_SI_gt_median,91,31
-clf_SI_gt_8,102,33
