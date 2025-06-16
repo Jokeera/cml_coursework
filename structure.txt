@@ -1,0 +1,67 @@
+.
+├── README.md
+├── catboost_info
+│   ├── catboost_training.json
+│   ├── learn
+│   ├── learn_error.tsv
+│   ├── test
+│   ├── test_error.tsv
+│   ├── time_left.tsv
+│   └── tmp
+├── clf_cc50_median.py
+├── clf_ic50_median.py
+├── clf_si_gt8.py
+├── clf_si_median.py
+├── data
+│   ├── eda_gen
+│   ├── features
+│   ├── metrics_reg_log1p_CC50_nM.csv
+│   ├── metrics_reg_log1p_IC50_nM.csv
+│   ├── metrics_reg_si.csv
+│   ├── preds_reg_log1p_CC50_nM.csv
+│   ├── preds_reg_log1p_IC50_nM.csv
+│   ├── preds_reg_si.csv
+│   └── Данные_для_курсовои_Классическое_МО.xlsx
+├── draft
+│   ├── eda_clf.py
+│   └── eda_reg.py
+├── eda_general.py
+├── features
+│   ├── selected_by_shap_clf_cc50nm_median_mi_top99_tuned_stack.txt
+│   ├── selected_by_shap_clf_ic50nm_median_mi_top99_tuned_stack.txt
+│   └── selected_by_shap_clf_si_median.txt
+├── final_report.txt
+├── main.py
+├── models
+│   ├── classification
+│   ├── clf_cc50_median
+│   ├── clf_ic50_median
+│   ├── clf_si_gt8
+│   ├── clf_si_median
+│   └── regression
+├── plots
+│   ├── classification
+│   ├── clf_cc50nm_median_mi_top99_tuned_stack_OOF_Best_xgboost_roc_curve.png
+│   ├── clf_cc50nm_median_mi_top99_tuned_stack_feature_selection_curve.png
+│   ├── dashboards
+│   ├── dummy
+│   ├── eda
+│   ├── eda_gen
+│   ├── regression
+│   ├── sanity_checks
+│   ├── shap
+│   └── summary
+├── reg_cc50.py
+├── reg_ic50.py
+├── reg_si.py
+├── report_generator.py
+├── reports
+│   ├── final_model_report.html
+│   ├── final_model_report.md
+│   └── final_model_report.txt
+├── requirements.txt
+├── sanity_check.py
+├── structure.txt
+└── utils.py
+
+28 directories, 37 files
